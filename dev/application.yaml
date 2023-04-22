@@ -1,3 +1,9 @@
 app:
   messages-default: "Default message from config server"
   message-profile: "This is dev profiles"
+
+eureka:
+  client:
+    service-url:
+      #jeden lub więcej po przecinku
+      defaultZone: http://localhost:8761/eureka
