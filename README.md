@@ -1,5 +1,5 @@
 # server-config
 
-CONFIGURATION FOR 'spring-cloud-config-server'
+CONFIGURATION FOR `spring-cloud-config-server`
 
 _TEST_
