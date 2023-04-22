@@ -1,0 +1,3 @@
+app:
+  messages-default: "Default message from config server"
+  message-profile: "This is dev profiles"
