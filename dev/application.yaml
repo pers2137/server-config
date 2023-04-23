@@ -1,6 +1,8 @@
 app:
   messages-default: "Default message from config server"
   message-profile: "This is dev profiles"
+  message-to-override: "message overwritten by server"
+  message-to-override-per-project: "SERVER NOT FIND MESSAGE TO THIS APP"
 
 eureka:
   client:

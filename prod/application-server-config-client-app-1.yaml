@@ -1,0 +1,2 @@
+app:
+  message-to-override-per-project: "message for server-config-client-app-1 from /prod/"
